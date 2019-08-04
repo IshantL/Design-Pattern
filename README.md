@@ -17,12 +17,18 @@
 The application should display
 
 a. a list of at least 5 cats, listed by name
+
 b. an area to display the selected cat
+
 c .In the cat display area, the following should be displayed
 
+
 a. the cat's name
+
 b. a picture of the cat
+
 c. text showing the number of clicks
+
 The specifics of the layout do not matter, so style it however you'd like.
 
 When a cat name is clicked in the list, the cat display area should update to show the data for the selected cat.
