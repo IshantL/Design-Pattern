@@ -11,4 +11,4 @@
   - If you run this code on any website, it will clear everything and add a bunch of numbers to the page. Try it! Open a new page, open the console, and run the above code. Then click on the numbers and see what gets alerted. Reading the code, we'd expect the numbers to alert their values when we click on them.But when we test it, all the elements alert the same thing: the last number. But why?
 
   - How do we fix it?
-    The solution involves utilizing closures
+    The solution involves utilizing closures (refer closure solution commit)
